@@ -7,7 +7,7 @@
 // paragrafo.innerHTML ='Digite um número entre 1 e 10';
 
 let listaDeNumerosSorteados = [];
-let numeroLimite = 10;
+let numeroLimite = 100;
 
 let tentativas = 1;
 
